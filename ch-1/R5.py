@@ -6,7 +6,7 @@ def sum_List(n):
     return sum([a * a for a in range(n)])
 
 if __name__=='__main__':
-    print(sum_List(n))
+    print(sum_List(10))
 
 
-sum_List(10)    
+    
