@@ -67,3 +67,6 @@ if __name__ == '__main__':
     x[0] = -100
     y = -x
     print(y)
+    print(v)
+    u = v + [5, 3, 10, 2, 1]
+    print(u)
